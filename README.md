@@ -33,7 +33,7 @@ This project is a basic UI webpage which is created by using HTML and CSS. It's 
 
 ![1](https://user-images.githubusercontent.com/109421054/184621846-5764b492-a5d6-4e8a-8cc4-ebbf2158e062.PNG)
 ![2](https://user-images.githubusercontent.com/109421054/184621931-374bcdee-3533-487c-95f5-70faff85b6c3.PNG)
-![3](https://user-images.githubusercontent.com/109421054/184621963-62500505-bc19-42ea-afd4-b4717fc7900f.PNG)
+![3](https://user-images.githubusercontent.com/109421054/184622650-d6bdec92-e1ea-46ac-a055-c00f4220968c.PNG)
 ![4](https://user-images.githubusercontent.com/109421054/184621979-26620d88-fb60-4fa2-991f-e704e1d66ec2.PNG)
 ![5](https://user-images.githubusercontent.com/109421054/184622001-908a9f75-d579-483d-9452-8324e4b46fc7.PNG)
 ![6](https://user-images.githubusercontent.com/109421054/184622030-3fab738b-8892-4ff3-8d66-f491be4e0ae6.PNG)
